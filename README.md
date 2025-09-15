@@ -1,5 +1,10 @@
 # 🧠 Trilha JS Developer - Pokédex
 Projeto desenvolvido durante a Trilha JavaScript Developer da DIO, com o objetivo de criar uma Pokédex interativa utilizando HTML, CSS e JavaScript. A aplicação consome dados da PokéAPI e exibe informações dos Pokémon de forma dinâmica.
+### 📸 Preview
+
+ [PokeDex](https://gustavobarretolima.github.io/js-developer-pokedex/)
+
+
 
 # 🧪 Funcionalidades
 
